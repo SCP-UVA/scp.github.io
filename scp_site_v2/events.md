@@ -16,8 +16,6 @@ permalink: /events/
 
 # Fall Series 2024
 
----
-
 * **Title**: Percolation vs. Nucleation: Phenomenological Models for Self-Healing in Alloys
 * **Department**: <span style ="color: #a64d79;">Materials Science and Engineering</span>
 * 🕒 **Datetime**: Tuesday, December 3rd, 2024, 5:00-7:00pm
@@ -210,20 +208,264 @@ permalink: /events/
 
 # Spring Series 2024
 
----
-
-# Fall Series 2023
-
----
-
-# Summer Series 2023
+* **Title**: Her Quals Briefly
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: Tuesday, May 5th, 2024, 5:00-7:00pm
+* 📍 **Location**: Gilmer 390
 
 ---
 
-# Spring Series 2023
+* **Title**: Introduction to Organic Chemistry, Applied to Medicine
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: Tuesday, April 29th, 2024, 5:00-7:00pm
+* 📍 **Location**: Gilmer 390
 
 ---
 
-# Fall Series 2022
+* **Title**: Minimizing Low-Rank Models of High-Order Tensors
+* **Department**: <span style ="color: #ff9900;">Electrical and Computer Engineering</span>
+* 🕒 **Datetime**: Tuesday, April 22nd, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
 
 ---
+
+* **Title**: Category Theory II: Who You Calling Abstract?
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: Tuesday, April 15th, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: A  Quest to Alter One's Gut Feelings (Using Targeted Drug Delivery)
+* **Department**: <span style ="color: #1155cc;">Chemical Engineering</span>
+* 🕒 **Datetime**: Tuesday, April 8th, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: Category Theory I: Morphisms, Functors, and "Abstract Nonsense"
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: Tuesday, April 1st, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: Introduction to Image Processing 
+* **Department**: <span style ="color: #ff9900;">Electrical and Computer Engineering</span>
+* 🕒 **Datetime**: Tuesday, March 25th, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: Dual Spaces, Inner Products, and Bra-Kets
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: Tuesday, March 18th, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: Group Theory for Condensed Matter or Something
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: Tuesday, March 11th, 2024, 5:00-7:00pm
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Introduction to Data Analysis (Part II: Canonical Correlation Analysis)
+* **Department**: <span style ="color: #ff9900;">Electrical and Computer Engineering</span>
+* 🕒 **Datetime**: Tuesday, March 4th, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E306
+
+---
+
+* **Title**: Introduction to Data Analysis (Part I: Principal Component Analysis)
+* **Department**: <span style ="color: #ff9900;">Electrical and Computer Engineering</span>
+* 🕒 **Datetime**: Tuesday, February 26th, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: Miscellaneous Problems and Tricks
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: Tuesday, February 19th, 2024, 5:00-7:00pm
+* 📍 **Location**: Dell 2 100
+
+---
+
+* **Title**: Construction of Z in Rudimentary Set Theory
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: Tuesday, February 12th, 2024, 5:00-7:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: Construction of N and Z only in Rudimentary Set Theory
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: Tuesday, February 5th, 2024, 5:00-7:00pm
+* 📍 **Location**: Dell 2 100
+
+---
+
+* **Title**: Linear Algebra and Proofs
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: Tuesday, January 29th, 2024, 5:00-7:00pm
+* 📍 **Location**: Gilmer 301
+
+---
+
+## Before "Officiality":
+
+* **Title**: Mathematical Theory of Biological Neural Networks
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: August 16th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Introduction to Organic Chemistry and Some Organic Reactions
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: August 9th, 2023, 5:00-6:00pm
+* 📍 **Location**: Gilmer 390
+
+---
+
+
+* **Title**: Anharmonic Oscillators as Toy Model to Understand Renormalization in QFT
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: August 2nd, 2023
+* 📍 **Location**: Gilmer 331A
+
+---
+
+* **Title**: Understanding Proton Spin Structure using Machine Learning Techniques
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: July 25th, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Introduction to Diffusion Models 
+* **Department**: <span style ="color: #ff9900;">Electrical and Computer Engineering</span>
+* 🕒 **Datetime**: July 19th, 2023, 5:00-6:00pm
+* 📍 **Location**: Thornton Hall E316
+
+---
+
+* **Title**: Causal Machine Learning
+* **Department**: <span style ="color: #674ea7;">Computer Science</span>
+* 🕒 **Datetime**: July 12th, 2023, 5:00-6:00pm
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Bacterial TonB Dependent Transport 
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: July 5th, 2023, 5:00-6:00pm
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Building Blocks of Set Theory
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: June 28th, 2023, 5:00-6:00pm
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Lebesgue Integration and Measure Theory
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: June 21st, 2023, 5:00-6:00pm
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Diagrammatic Calculus
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: June 14th, 2023, 3pm
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Some Insane QFT Stuff with Ghosts
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: May 17th, 2023
+* 📍 **Location**: JBL 338
+
+---
+
+* **Title**: [CANCELLED]
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: May 5th, 2023
+* 📍 **Location**: [CANCELLED]
+
+---
+
+* **Title**: [CANCELLED]
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: April 26th, 2023
+* 📍 **Location**: [CANCELLED]
+
+---
+
+* **Title**: Crash Course in Basic Chemistry (for Clueless Physicists)
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: April 19th, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Chemical Bonds
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: April 12th, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Basic Chemistry Primer
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: April 5th, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Predicting Reactions in Metals
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: March 15th, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Inside The Nucleon - Elastic Form Factors
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: March 1st, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Photoelectric Effects with Quantum Mechanics
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: February 22nd, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Bacterial Membrane Transport using EPR Spectroscopy
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: February 15th, 2023
+* 📍 **Location**: Gilmer 301
+
+---
+
+* **Title**: Exploring Kapitza's Pendulum
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: February 6th, 2023
+* 📍 **Location**: JBL 313
+
+---
+
+* **Title**: Crash Course in Compact Objects
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: February 1st, 2023
+* 📍 **Location**: JBL 313
+
+...
