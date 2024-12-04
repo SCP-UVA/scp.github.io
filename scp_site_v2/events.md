@@ -315,6 +315,111 @@ permalink: /events/
 
 ## Before "Officiality":
 
+* **Title**: Variational Autoencoders (VAE)
+* **Department**: <span style ="color: #ff9900;">Electrical and Computer Engineering</span>
+* 🕒 **Datetime**: November 28th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: SpinQuest Hit Pattern and Data Health Visitation
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: November 21st, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Group theory for physics: An illustrative example (someone new takes priority here/can replace this slot)
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: November 14th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Molecular Fingerprints
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**:November 7th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Where Are the Length Scales in Quantum and Protein-Protein Interactions using SMT
+* **Department**: <span style ="color: #b45f06;">Physics</span>/<span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: October 31st, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Multilinear Algebra and Probability
+* **Department**: <span style ="color: #ff9900;">Electrical and Computer Engineering</span>
+* 🕒 **Datetime**: October 24th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: C++ Primer and Special Topics
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: October 17th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Introduction to Quantum Mechanics with Applications to Chemistry
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: October 10th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Antibiotic Resistance
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: October 3rd, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Coordination Chemistry
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: September 26th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Actually Doing Vector Calculus This Time
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: September 19th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: String Theory (music theory and guitars; no real math like measure theory)
+* **Department**: <span style ="color: #6aa84f;">Chemistry</span>
+* 🕒 **Datetime**: September 12th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Statistical Mechanics I: Why it's so Clever
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: September 5th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Quantum Field Theory in 0 Dimensions
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: August 29th, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
+* **Title**: Follow-Up on Diagrammatic Vector Calculus
+* **Department**: <span style ="color: #b45f06;">Physics</span>
+* 🕒 **Datetime**: August 22nd, 2023
+* 📍 **Location**: Gilmer 390
+
+---
+
 * **Title**: Mathematical Theory of Biological Neural Networks
 * **Department**: <span style ="color: #b45f06;">Physics</span>
 * 🕒 **Datetime**: August 16th, 2023
