@@ -31,13 +31,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # (4): The base URL of the site:
 baseurl: "" # the subpath of your site, e.g. /blog
 
-# (5): The protocol://hostname of the site, e.g. http://example.com
-url: "https://scp.github.io"
-
 # (6): Social media attachements:
-
-# (6.1): Twitter name:
-# twitter_username: scp-uva
 
 # (6.2): GitHub account:
 github_username:  scp-uva
